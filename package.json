@@ -1,0 +1,62 @@
+{
+    "name": "ak-color-themes",
+    "displayName": "AK Color Themes",
+    "description": "AK color themes",
+    "publisher": "akdevservices",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AK Dark 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark1-color-theme.json"
+            },
+            {
+                "label": "AK Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark2-color-theme.json"
+            },
+            {
+                "label": "AK Dark Gray 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-gray1-color-theme.json"
+            },
+            {
+                "label": "AK Dark Gray 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-gray2-color-theme.json"
+            },
+            {
+                "label": "AK Dark Teal 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-teal1-color-theme.json"
+            },
+            {
+                "label": "AK Dark Teal 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-teal2-color-theme.json"
+            },
+            {
+                "label": "AK Dark Monokai 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-monokai1-color-theme.json"
+            },
+            {
+                "label": "AK Dark Monokai 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ak-dark-monokai2-color-theme.json"
+            },
+            {
+                "label": "AK Light",
+                "uiTheme": "vs",
+                "path": "./themes/ak-light-color-theme.json"
+            }
+        ]
+    }
+}
