@@ -50,6 +50,8 @@
 		"sideBarSectionHeader.background": "#00000000",
 		"sideBarSectionHeader.border": "#cccccc33",
 		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.foreground": "#c0c0c0",
+		"statusBar.background": "#272822",
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
 		"tab.activeBackground": "#2d3636",
