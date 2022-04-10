@@ -3,7 +3,7 @@
     "displayName": "AK Color Themes",
     "description": "AK color themes",
     "publisher": "akdevservices",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.51.0"
     },
